@@ -1,13 +1,7 @@
 body {
+  background-color: #f0f8ff; /* Cambia este color a uno claro de tu preferencia */
+  color: #333; /* Texto en color oscuro para buen contraste */
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
